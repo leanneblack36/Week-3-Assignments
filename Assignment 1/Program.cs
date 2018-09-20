@@ -11,7 +11,9 @@ namespace Assignment_1
         static void Main(string[] args)
         {
             // Enter two numbers. Show the highest value ('highest value is: …') and show the lowest value ('lowest
-            //value is: …'            //input two numbers//
+            //value is: …'
+            //input two numbers//
+
             Console.WriteLine("Enter first number");
             string input1 = Console.ReadLine();
             int firstnumber = int.Parse(input1);
