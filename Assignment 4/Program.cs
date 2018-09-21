@@ -30,7 +30,7 @@ namespace Assignment_4
 
             //caluclate average//
 
-            double calculatedAverage = calculatedSum / 3;
+            double calculatedAverage = calculatedSum / 3.0;
 
             //calculate product //
 
